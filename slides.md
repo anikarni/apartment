@@ -10,24 +10,24 @@
 
 ----
 
-<p class="subtitle">O sofá</p>
+<p class="subtitle">O sofá - R$500</p>
 <img src="pictures/sofa.JPG" class="picture large-picture" />
 <img src="pictures/sofa2.JPG" class="picture large-picture" />
 <img src="pictures/sofa-aberto.JPG" class="picture large-picture" />
 
 ----
 
-<p class="subtitle">A cama</p>
+<p class="subtitle">A cama - R$800</p>
 <img src="pictures/cama.JPG" />
 
 ----
 
-<p class="subtitle">O fogão</p>
+<p class="subtitle">O fogão - R$400</p>
 <img src="pictures/fogao.JPG" />
 
 ----
 
-<p class="subtitle">A máquina de lavar roupa</p>
+<p class="subtitle">A máquina de lavar roupa - R$800</p>
 <img src="pictures/maquina.JPG" class="picture large-picture" />
 <img src="pictures/maquina2.JPG" class="picture large-picture" />
 <img src="pictures/maquina3.JPG" class="picture large-picture" />
@@ -107,7 +107,3 @@
 ## Perguntas? Sugestões?
 <p class="subtitle">Contata essa pessoa aqui!</p>
 <p class="subtitle">aarni@thoughtworks.com</p>
-
----
-
-# Muito Obrigado!
