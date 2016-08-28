@@ -70,12 +70,35 @@
 
 ----
 
+## Localidade
+* Na Cidade Baixa - perto da boemia
+* Na Sofia Veloso - longe do barulho
+* Entre Redenção e Centro - perto de transporte
+* Entre Republica e Lima - longe dos coxinhas ;)
+
+----
+
 <p class="subtitle">A cozinha</p>
 <img src="pictures/cozinha.JPG" />
 
 ----
 
+## Ambiente
+* Dois andares, com patio externo
+* Cozinha com balcão
+* Inclui geladeira, microondas, split
+
+----
+
 <p class="subtitle">Mais fotos por vir!!</p>
+
+----
+
+## Preços
+* Aluguel: R$1,400
+* Condominio: ~R$250
+* IPTU: ~R$50
+
 <img src="pictures/chevron-right.png" class="icon" />
 
 ---
