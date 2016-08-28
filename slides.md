@@ -17,7 +17,7 @@
 
 ----
 
-<p class="subtitle">A cama - R$800</p>
+<p class="subtitle"><strike>A cama - R$800</strike> VENDIDA!</p>
 <img src="pictures/cama.JPG" />
 
 ----
