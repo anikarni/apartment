@@ -99,6 +99,41 @@ body {
   font-style: italic;
 }
 
+.reveal ul {
+  display: inline-block;
+  text-align: left;
+  margin: 0 0 0 1em;
+}
+
+/* line 99, template/theme.scss */
+.reveal ol {
+  list-style-type: decimal;
+}
+
+/* line 103, template/theme.scss */
+.reveal ul {
+  list-style-type: disc;
+}
+
+/* line 107, template/theme.scss */
+.reveal ul ul {
+  list-style-type: square;
+}
+
+/* line 111, template/theme.scss */
+.reveal ul ul ul {
+  list-style-type: circle;
+}
+
+/* line 115, template/theme.scss */
+.reveal ul ul,
+.reveal ul ol,
+.reveal ol ol,
+.reveal ol ul {
+  display: block;
+  margin-left: 40px;
+}
+
 /*********************************************
  * IMAGES
  *********************************************/
