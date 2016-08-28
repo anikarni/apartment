@@ -6,6 +6,7 @@
 
 <p class="subtitle">Os móveis</p>
 ## a venda!
+<img src="pictures/chevron-down.png" class="icon" />
 
 ----
 
@@ -30,11 +31,13 @@
 <img src="pictures/maquina.JPG" class="picture large-picture" />
 <img src="pictures/maquina2.JPG" class="picture large-picture" />
 <img src="pictures/maquina3.JPG" class="picture large-picture" />
+<img src="pictures/chevron-right.png" class="icon" />
 
 ---
 
 <p class="subtitle">Os móveis sendo</p>
 ## doados!
+<img src="pictures/chevron-down.png" class="icon" />
 
 ----
 
@@ -57,11 +60,13 @@
 <p class="subtitle">Os (4) banquinhos</p>
 <p class="subtitle">(tem cadeiras de praia também)</p>
 <img src="pictures/banco.JPG" />
+<img src="pictures/chevron-right.png" class="icon" />
 
 ---
 
 <p class="subtitle">O apartamento sendo</p>
 ## alugado!
+<img src="pictures/chevron-down.png" class="icon" />
 
 ----
 
@@ -71,6 +76,7 @@
 ----
 
 <p class="subtitle">Mais fotos por vir!!</p>
+<img src="pictures/chevron-right.png" class="icon" />
 
 ---
 
