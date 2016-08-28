@@ -310,3 +310,9 @@ body {
 .reveal code .title {
   border-bottom: 0px;
 }
+
+.reveal .icon {
+  border: 0;
+  margin: 0;
+  background: none;
+}
