@@ -63,6 +63,15 @@
 <p class="subtitle">O apartamento sendo</p>
 ## alugado!
 
+----
+
+<p class="subtitle">A cozinha</p>
+<img src="pictures/cozinha.JPG" />
+
+----
+
+<p class="subtitle">Mais fotos por vir!!</p>
+
 ---
 
 <img src="pictures/anike.jpeg" class="picture small-picture" />
