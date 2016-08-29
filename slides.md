@@ -41,7 +41,7 @@
 
 ----
 
-<p class="subtitle">As plantas</p>
+<p class="subtitle"><strike>As plantas</strike> DOADAS!</p>
 <img src="pictures/plantas.JPG" class="picture large-picture" />
 <img src="pictures/plantas2.JPG" class="picture large-picture" />
 
@@ -57,7 +57,7 @@
 
 ----
 
-<p class="subtitle">Os (4) banquinhos</p>
+<p class="subtitle"><strike>Os (4) banquinhos</strike> DOADOS!</p>
 <p class="subtitle">(tem cadeiras de praia também)</p>
 <img src="pictures/banco.JPG" />
 <img src="pictures/chevron-right.png" class="icon" />
