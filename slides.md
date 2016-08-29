@@ -47,12 +47,12 @@
 
 ----
 
-<p class="subtitle">A estante</p>
+<p class="subtitle"><strike>A estante</strike> DOADA!</p>
 <img src="pictures/estante.JPG" />
 
 ----
 
-<p class="subtitle">A mesinha</p>
+<p class="subtitle"><strike>A mesinha</strike> DOADA!</p>
 <img src="pictures/mesa.JPG" />
 
 ----
