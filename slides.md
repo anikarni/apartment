@@ -57,9 +57,39 @@
 
 ----
 
+<p class="subtitle">As cadeiras de praia</p>
+<img src="pictures/cadeiras.JPG" />
+
+----
+
 <p class="subtitle"><strike>Os (4) banquinhos</strike> DOADOS!</p>
-<p class="subtitle">(tem cadeiras de praia também)</p>
 <img src="pictures/banco.JPG" />
+<img src="pictures/chevron-right.png" class="icon" />
+
+---
+
+<p class="subtitle">As decorações sendo</p>
+## doadas!
+<img src="pictures/chevron-down.png" class="icon" />
+
+----
+
+<p class="subtitle">A felicidade, os cestinhos e os porta-copos</p>
+<img src="pictures/decoracao1.JPG" class="picture large-picture" />
+<img src="pictures/decoracao2.JPG" class="picture large-picture" />
+<img src="pictures/decoracao3.JPG" class="picture large-picture" />
+
+----
+
+<p class="subtitle">O abajur e a caixa de costura (com o kit dentro!)</p>
+<img src="pictures/decoracao4.JPG" class="picture large-picture" />
+<img src="pictures/decoracao5.JPG" class="picture large-picture" />
+
+----
+
+<p class="subtitle">O quadro e a vela</p>
+<img src="pictures/decoracao6.JPG" class="picture large-picture" />
+<img src="pictures/decoracao7.JPG" class="picture large-picture" />
 <img src="pictures/chevron-right.png" class="icon" />
 
 ---
