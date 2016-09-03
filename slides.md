@@ -90,6 +90,7 @@
 <p class="subtitle">O quadro e a vela</p>
 <img src="pictures/decoracao6.JPG" class="picture large-picture" />
 <img src="pictures/decoracao7.JPG" class="picture large-picture" />
+
 <img src="pictures/chevron-right.png" class="icon" />
 
 ---
