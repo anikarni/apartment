@@ -10,7 +10,7 @@
 
 ----
 
-<p class="subtitle">O sofá - R$500</p>
+<p class="subtitle"><strike>O sofá - R$500</strike> VENDIDO!</p>
 <img src="pictures/sofa.JPG" class="picture large-picture" />
 <img src="pictures/sofa2.JPG" class="picture large-picture" />
 <img src="pictures/sofa-aberto.JPG" class="picture large-picture" />
@@ -22,7 +22,7 @@
 
 ----
 
-<p class="subtitle">O fogão - R$400</p>
+<p class="subtitle"><strike>O fogão - R$400</strike> VENDIDO!</p>
 <img src="pictures/fogao.JPG" />
 
 ----
@@ -81,13 +81,13 @@
 
 ----
 
-<p class="subtitle">O abajur e a caixa de costura (com o kit dentro!)</p>
+<p class="subtitle"><strike>O abajur e a caixa de costura (com o kit dentro!)</strike> DOADOS!</p>
 <img src="pictures/decoracao4.JPG" class="picture large-picture" />
 <img src="pictures/decoracao5.JPG" class="picture large-picture" />
 
 ----
 
-<p class="subtitle">O quadro e a vela</p>
+<p class="subtitle"><strike>O quadro</strike> e a vela</p>
 <img src="pictures/decoracao6.JPG" class="picture large-picture" />
 <img src="pictures/decoracao7.JPG" class="picture large-picture" />
 
@@ -104,8 +104,7 @@
 ## Localidade
 * Na Cidade Baixa - perto da boemia
 * Na Sofia Veloso - longe do barulho
-* Entre Redenção e Centro - perto de transporte
-* Entre Republica e Lima - longe dos coxinhas ;)
+* Entre Republica e Lima - perto de transporte
 
 ----
 
@@ -118,10 +117,6 @@
 * Dois andares, com patio externo
 * Cozinha com balcão
 * Inclui geladeira, microondas, split
-
-----
-
-<p class="subtitle">Mais fotos por vir!!</p>
 
 ----
 
