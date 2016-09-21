@@ -4,20 +4,6 @@
 
 ---
 
-<p class="subtitle">Os móveis</p>
-## a venda!
-<img src="pictures/chevron-down.png" class="icon" />
-
-----
-
-<p class="subtitle">A máquina de lavar roupa - R$800</p>
-<img src="pictures/maquina.JPG" class="picture large-picture" />
-<img src="pictures/maquina2.JPG" class="picture large-picture" />
-<img src="pictures/maquina3.JPG" class="picture large-picture" />
-<img src="pictures/chevron-right.png" class="icon" />
-
----
-
 <p class="subtitle">As decorações sendo</p>
 ## doadas!
 <img src="pictures/chevron-down.png" class="icon" />
@@ -37,15 +23,9 @@
 
 ----
 
-<p class="subtitle">As panelas e os copos</p>
-<img src="pictures/panelas.jpg" class="picture large-picture" />
+<p class="subtitle">Os copos e a sanduicheira</p>
 <img src="pictures/copos.jpg" class="picture large-picture" />
-
-----
-
-<p class="subtitle">A sanduicheira (novinha) e a sonzeira</p>
 <img src="pictures/sanduicheira.jpg" class="picture large-picture" />
-<img src="pictures/som.jpg" class="picture large-picture" />
 
 ----
 
