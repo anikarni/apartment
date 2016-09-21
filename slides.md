@@ -38,20 +38,20 @@
 ----
 
 <p class="subtitle">As panelas e os copos</p>
-<img src="pictures/panelas.JPG" class="picture large-picture" />
-<img src="pictures/copos.JPG" class="picture large-picture" />
+<img src="pictures/panelas.jpg" class="picture large-picture" />
+<img src="pictures/copos.jpg" class="picture large-picture" />
 
 ----
 
-<p class="subtitle">A sanduicheira e a sonzeira</p>
-<img src="pictures/sanduicheira.JPG" class="picture large-picture" />
-<img src="pictures/som.JPG" class="picture large-picture" />
+<p class="subtitle">A sanduicheira (novinha) e a sonzeira</p>
+<img src="pictures/sanduicheira.jpg" class="picture large-picture" />
+<img src="pictures/som.jpg" class="picture large-picture" />
 
 ----
 
 <p class="subtitle">Os tapetes e o varal</p>
-<img src="pictures/tapetes.JPG" class="picture large-picture" />
-<img src="pictures/varal.JPG" class="picture large-picture" />
+<img src="pictures/tapetes.jpg" class="picture large-picture" />
+<img src="pictures/varal.jpg" class="picture large-picture" />
 
 <img src="pictures/chevron-right.png" class="icon" />
 
