@@ -15,11 +15,10 @@
 
 ----
 
-<p class="subtitle">A felicidade, os cestinhos, os porta-copos e a vela</p>
+<p class="subtitle">A felicidade, os cestinhos, os porta-copos</p>
 <img src="pictures/decoracao1.JPG" class="picture large-picture" />
 <img src="pictures/decoracao2.JPG" class="picture large-picture" />
 <img src="pictures/decoracao3.JPG" class="picture large-picture" />
-<img src="pictures/decoracao7.JPG" class="picture large-picture" />
 
 ----
 
